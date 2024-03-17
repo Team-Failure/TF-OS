@@ -32,4 +32,8 @@ Nx dump tool.
 
 4- (if you are on RCM mode) Start your computer, download and launch "TegraRCMgui", connect your switch at your pc with a cable can transfer data, and,if the program show your console is in RCM mode, select the Payload "hekate..." and select "inject payload" 
 
-5- 
+5- Create an emuNAND:
+
+Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
+
+6- Launch: Return at Hekate menu and select "Launch" and select "CFW". 
