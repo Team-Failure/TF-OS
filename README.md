@@ -1,7 +1,7 @@
 # TF-OS
-A new CFW for Nintendo Switch. 
+A new CFW (Pack) for Nintendo Switch. 
 
-Our CFW is verry complete with some of homebrews. 
+Our CFW (Pack) is verry complete with some of homebrews. 
 
 # Homebrews
 This is the list of homebrews on our cfw:
