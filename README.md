@@ -22,3 +22,14 @@ ChoixDuJourNX,
 Daybreak, 
 Haze, 
 Nx dump tool. 
+
+# Setup
+1- Download the last release
+
+2-Extract contenent of "TF OS" folder on your sd card
+
+3-Put your console into RCM mode or just power on it if your console have a mod chip
+
+4- (if you are on RCM mode) Start your computer, download and launch "TegraRCMgui", connect your switch at your pc with a cable can transfer data, and,if the program show your console is in RCM mode, select the Payload "hekate..." and select "inject payload" 
+
+5- 
