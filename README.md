@@ -30,7 +30,7 @@ Tinfoil (applet mode).
 # Setup
 1- Download the last release
 
-2-Extract contenent of "TF OS" folder on your sd card
+2-Format your sd card on FAT32 or exFAT and extract contenent of "TF OS" folder on your sd card
 
 3-Put your console into RCM mode or just power on it if your console have a mod chip
 
