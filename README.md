@@ -3,6 +3,8 @@ A new CFW (Pack) for Nintendo Switch.
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
+There is a folder called "_.apps" on the archive, it is the tinfoil nsp file in this, it is a folder you can use to drop nsp or xci file to install it with Awoo installer, dbi installer or tinfoil applet mode. 
+
 # Homebrews
 This is the list of homebrews on our cfw:
 aio switch updater, 
@@ -21,7 +23,9 @@ Browser // is just an acces to the switch web browser,
 ChoixDuJourNX, 
 Daybreak, 
 Haze, 
-Nx dump tool. 
+Nx dump tool,
+Dbi installer, 
+Tinfoil (applet mode). 
 
 # Setup
 1- Download the last release
