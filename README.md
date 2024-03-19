@@ -25,7 +25,11 @@ Daybreak,
 Haze, 
 Nx dump tool,
 Dbi installer, 
-Tinfoil (applet mode). 
+Tinfoil (applet mode) 
+BOTW Save editor GUI,
+Edizon,
+Firmware Dumper,
+Generic mod manager.
 
 # Setup
 1- Download the last release
