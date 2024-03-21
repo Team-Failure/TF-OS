@@ -20,6 +20,8 @@ Installer:
 
 -Tinfoil (applet mode) 
 
+-Gamecard installer 
+
 Dumping tools:
 
 -NX Dump tool 
@@ -30,7 +32,41 @@ Overclocking:
 
 -sys clk manager 
 
-File 
+File manager:
+
+-NX Shell 
+
+Mods:
+
+-generic mod manager 
+
+-Nx rom get 
+
+Save editors:
+
+-Checkpoint 
+
+-Edizon
+
+-BOTW Save editor gui
+
+-jksv
+
+Firmware updater:
+
+-Daybreak 
+
+-ChoixDuJourNX 
+
+Other:
+
+-Amiibo generator 
+
+-Browser (Switch browser) 
+
+-Haze
+
+-Aio switch updater 
 
 # Setup
 1- Download the last release
