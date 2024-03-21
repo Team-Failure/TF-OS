@@ -7,28 +7,30 @@ There is a folder called "_.apps" on the archive, it is the tinfoil nsp files in
 
 # Homebrews
 This is the list of homebrews on our cfw:
-aio switch updater, 
-homebrew app store, 
-Awoo installer, 
-Checkpoint, 
-Gamecard installer, 
-Goldleaf, 
-Jksv, 
-NxRom get, 
-Nx Shell, 
-Sys clk manager, 
-Amiibo generator, 
-Browser // is just an acces to the switch web browser, 
-ChoixDuJourNX, 
-Daybreak, 
-Haze, 
-Nx dump tool,
-Dbi installer, 
-Tinfoil (applet mode) 
-BOTW Save editor GUI,
-Edizon,
-Firmware Dumper,
-Generic mod manager.
+
+Installer:
+
+-appstore
+
+-Goldleaf 
+
+-Awoo installer
+
+-Dbi
+
+-Tinfoil (applet mode) 
+
+Dumping tools:
+
+-NX Dump tool 
+
+-Firmware dumper
+
+Overclocking:
+
+-sys clk manager 
+
+File 
 
 # Setup
 1- Download the last release
