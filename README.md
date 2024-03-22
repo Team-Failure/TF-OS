@@ -3,7 +3,7 @@ A new CFW (Pack) for Nintendo Switch.
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
-There is a folder called "_.apps" on the archive, it is the tinfoil nsp files in this, it is a folder you can use to drop nsp or xci file to install it with Awoo installer, dbi installer or tinfoil applet mode. 
+There is a folder called "_.apps" on the archive, is the tinfoil nsp files in this, it is a folder you can use to drop nsp or xci file to install it with Awoo installer, dbi installer or tinfoil applet mode. 
 
 # Homebrews
 This is the list of homebrews on our cfw:
@@ -46,8 +46,6 @@ Save editors:
 
 -Checkpoint 
 
--Edizon
-
 -BOTW Save editor gui
 
 -jksv
@@ -67,6 +65,16 @@ Other:
 -Haze
 
 -Aio switch updater 
+
+-EdiZon
+
+-NX theme installer
+
+-sys dvr
+
+-90DNS setter
+
+-90DNS tester
 
 # Setup
 1- Download the last release
