@@ -81,9 +81,9 @@ This is the list of homebrews on our cfw:
 -sys dvr
 
 # Setup
-1- Download the last release
+1- Download the last release or Pre release 
 
-2-Format your sd card on FAT32 or exFAT and extract contenent of "TF OS" folder on your sd card
+2-Format your sd card on FAT32 or exFAT and extract contenent of "TF OS" folder on your sd card. Or just drop TF OS's files in the sd card if you dont want to format it
 
 3-Put your console into RCM mode or just power on it if your console have a mod chip
 
