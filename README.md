@@ -76,6 +76,10 @@ This is the list of homebrews on our cfw:
 
 -90DNS tester
 
+-NX theme installer 
+
+-sys dvr
+
 # Setup
 1- Download the last release
 
