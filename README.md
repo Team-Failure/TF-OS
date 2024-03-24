@@ -8,7 +8,7 @@ There is a folder called "_.apps" on the archive, is the tinfoil nsp files in th
 # Homebrews
 This is the list of homebrews on our cfw:
 
-Installer:
+* Installer:
 
 -appstore
 
@@ -22,27 +22,27 @@ Installer:
 
 -Gamecard installer 
 
-Dumping tools:
+* Dumping tools:
 
 -NX Dump tool 
 
 -Firmware dumper
 
-Overclocking:
+* Overclocking:
 
 -sys clk manager 
 
-File manager:
+* File manager:
 
 -NX Shell 
 
-Mods:
+* Mods:
 
 -generic mod manager 
 
 -Nx rom get 
 
-Save editors:
+* Save editors:
 
 -Checkpoint 
 
@@ -50,13 +50,13 @@ Save editors:
 
 -jksv
 
-Firmware updater:
+* Firmware updater:
 
 -Daybreak 
 
 -ChoixDuJourNX 
 
-Other:
+* Other:
 
 -Amiibo generator 
 
