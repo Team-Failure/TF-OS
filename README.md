@@ -3,8 +3,6 @@ A new CFW (Pack) for Nintendo Switch.
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
-There is a folder called "_.apps" on the archive, is the tinfoil nsp files in this, it is a folder you can use to drop nsp or xci file to install it with Awoo installer, dbi installer or tinfoil applet mode. 
-
 # Homebrews
 This is the list of homebrews on our cfw:
 
@@ -17,8 +15,6 @@ This is the list of homebrews on our cfw:
 -Awoo installer
 
 -Dbi
-
--Tinfoil (applet mode) 
 
 -Gamecard installer 
 
@@ -46,8 +42,6 @@ This is the list of homebrews on our cfw:
 
 -Checkpoint 
 
--BOTW Save editor gui
-
 -jksv
 
 * Firmware updater:
@@ -56,9 +50,7 @@ This is the list of homebrews on our cfw:
 
 -ChoixDuJourNX 
 
-* Other:
-
--Amiibo generator 
+* Other: 
 
 -Browser (Switch browser) 
 
@@ -83,7 +75,7 @@ This is the list of homebrews on our cfw:
 # Setup
 1- Download the last release or Pre release 
 
-2-Format your sd card on FAT32 or exFAT and extract contenent of "TF OS" folder on your sd card. Or just drop TF OS's files in the sd card if you dont want to format it
+2-Format your sd card on FAT32 or exFAT and extract contenent of "sd" folder on your sd card. Or just drop TF OS's files in the sd card if you dont want to format it
 
 3-Put your console into RCM mode or just power on it if your console have a mod chip
 
