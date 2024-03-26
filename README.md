@@ -3,6 +3,8 @@ A new CFW (Pack) for Nintendo Switch.
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
+➡ In no event shall we be held responsible for any issues or bricking occurring with your console. We strongly recommend following the provided instructions. 
+
 # Homebrews
 This is the list of homebrews on our cfw:
 
