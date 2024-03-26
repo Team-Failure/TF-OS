@@ -83,7 +83,9 @@ This is the list of homebrews on our cfw:
 
 Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
 
-6- Launch: Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),activate airplain mode immediatly and open the album to launch the homebrew menu. 
+6- Launch: 
+
+Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),activate airplain mode immediatly and open the album to launch the homebrew menu. 
 
 
 # WARNING 
