@@ -85,8 +85,13 @@ Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
 
 6- Launch: 
 
-Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),activate airplain mode immediatly and open the album to launch the homebrew menu. 
+Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),activate airplaine mode immediatly and open the album or launch game with "R" button pressed to launch the homebrew menu. (The album launch the hbmenu in appelt mode and a game with "R" button pressed launch hbmenu in normal mode) 
 
+Note: You must launch Homebrews menu with a game and "R" button pressed to use "Checkpoint" 
+
+7- Activate 90DNS (Optional and at your own riks) 
+
+Open console settings and connect to internet, go to homebrews menu and launch "90dns setter", when it is finish, launch "90dns tester" and test the 90dns. 
 
 # WARNING 
 IF YOU SELECT AUTO RCM ON HEKATE SETTINGS, YOU CAN IMEDIATLY BRICK YOUR SWITCH IF IS A V2 ! 
