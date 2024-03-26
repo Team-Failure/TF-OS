@@ -30,6 +30,8 @@ This is the list of homebrews on our cfw:
 
 -sys clk manager 
 
+-sys clk editor
+
 * File manager:
 
 -NX Shell 
@@ -69,6 +71,10 @@ This is the list of homebrews on our cfw:
 -90DNS setter
 
 -90DNS tester
+
+-reboot_to_rcm 
+
+-reboot Payload 
 
 # Setup
 1- Download the last release or Pre release 
