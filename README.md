@@ -42,6 +42,8 @@ This is the list of homebrews on our cfw:
 
 -generic mod manager 
 
+-SimpleModManager 
+
 -Nx rom get 
 
 * Save editors:
@@ -78,18 +80,24 @@ This is the list of homebrews on our cfw:
 
 -reboot Payload 
 
+-Reset parental control
+
+-Payload Launcher
+
 # Setup
 1- Download the last release or Pre release 
 
-2-Format your sd card on FAT32 or exFAT and extract contenent of "sd" folder on your sd card. Or just drop TF OS's files in the sd card if you dont want to format it
+2- Format your sd card on FAT32 or exFAT and extract contenent of "sd" folder on your sd card. Or just drop files in the sd card if you dont want to format it
 
 3-Put your console into RCM mode or just power on it if your console have a mod chip
 
 4- (if you are on RCM mode) Start your computer, download and launch "TegraRCMgui" go to tegrarcmgui settings and install drivers, connect your switch at your pc with a cable can transfer data, and,if the program show your console is in RCM mode, select the Payload "hekate..." is in the archive with the folder icon and select "inject payload" 
 
-5- Create an emuNAND:
+5- Make backups and create an emuNAND:
 
-Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
+Backups: Go to hekate settings and select "Backup boot0 and boot1" 
+
+emuNAND: Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
 
 6- Launch: 
 
