@@ -56,8 +56,6 @@ This is the list of homebrews on our cfw:
 
 -Daybreak 
 
--ChoixDuJourNX 
-
 * Other: 
 
 -Browser (Switch browser) 
