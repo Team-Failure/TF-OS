@@ -93,7 +93,7 @@ This is the list of homebrews on our cfw:
 Go and hekate and:
 Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
 
-<img src="img/emu.png" alt="emunand shema">
+<img src="emuNand.png" alt="emunand shema">
 
 6- Launch: 
 
