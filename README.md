@@ -44,8 +44,6 @@ This is the list of homebrews on our cfw:
 
 -SimpleModManager 
 
--Nx rom get 
-
 * Save editors:
 
 -Checkpoint 
