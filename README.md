@@ -106,4 +106,4 @@ Note: You must launch Homebrews menu with a game and "R" button pressed to use "
 Open console settings and connect to internet, go to homebrews menu and launch "90dns setter", when it is finish, launch "90dns tester" and test the 90dns. 
 
 # WARNING 
-IF YOU SELECT AUTO RCM ON HEKATE SETTINGS, YOU CAN IMEDIATLY BRICK YOUR SWITCH IF IS A V2 ! 
+IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATR AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE ! 
