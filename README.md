@@ -38,9 +38,7 @@ This is the list of homebrews on our cfw:
 
 -NX Shell 
 
-* Mods:
-
--generic mod manager 
+* Mods: 
 
 -SimpleModManager 
 
@@ -48,25 +46,23 @@ This is the list of homebrews on our cfw:
 
 -Checkpoint 
 
--jksv
-
 * Firmware updater:
 
 -Daybreak 
+
+-AIO Switch Updater
 
 * Other: 
 
 -Browser (Switch browser) 
 
--Haze
+-Haze (Pc to sd card file transferer) 
 
--Aio switch updater 
+-EdiZon (Cheat Manager)
 
--EdiZon
+-NX theme installer 
 
--NX theme installer
-
--sys dvr
+-sys dvr (Switch game to pc for steaming with obs or other)
 
 -90DNS setter
 
@@ -83,15 +79,15 @@ This is the list of homebrews on our cfw:
 # Setup
 1- Download the last release or Pre release 
 
-2- Format your sd card on FAT32 or exFAT and extract contenent of "sd" folder on your sd card. Or just drop files in the sd card if you dont want to format it
+2- Format your sd card on `fat32` or `exFAT` and extract contenent of `"sd"` folder on your sd card. Or just drop files in the sd card if you dont want to format it
 
-3-Put your console into RCM mode or just power on it if your console have a mod chip
+3- Put your console into RCM mode or `just power on it if your console have a mod chip`
 
-4- (if you are on RCM mode) Start your computer, download and launch "TegraRCMgui" go to tegrarcmgui settings and install drivers, connect your switch at your pc with a cable can transfer data, and,if the program show your console is in RCM mode, select the Payload "hekate..." or "TF PrismaLoader..." is in the archive with the folder icon and select "inject payload" 
+4- (if you are on RCM mode) Start your computer, download and launch `"TegraRCMgui"` go to `tegrarcmgui settings` and `install drivers`, connect your switch at your pc with a cable `can transfer data`, and,if the program show your console is in RCM mode, select the Payload `"hekate..." or "TF PrismaLoader..."` is in the archive with the folder icon and select "inject payload" 
 
 5- Create an emuNAND
-Go and hekate and:
-Select "emuMMC", "create emuMMC", "Sd file" and wait (can be take over 10min)
+Go on hekate and:
+Select `"emuMMC"`, `"create emuMMC"`, `"Sd file"` and wait (can be take over 10min)
 
 <img src="emunNAND.png" alt="emunand shema">
 
@@ -101,9 +97,9 @@ Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),acti
 
 Note: You must launch Homebrews menu with a game and "R" button pressed to use "Checkpoint" 
 
-7- Activate 90DNS (Optional and at your own riks) 
+7- Activate 90DNS `(Optional and at your own riks)` 
 
 Open console settings and connect to internet, go to homebrews menu and launch "90dns setter", when it is finish, launch "90dns tester" and test the 90dns. 
 
 # WARNING 
-IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATR AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE ! 
+- IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATR AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE ! 
