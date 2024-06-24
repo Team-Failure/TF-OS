@@ -1,7 +1,7 @@
 # TF-OS
 A new CFW (Pack) for Nintendo Switch. 
 
-Latest compatible firmware: `18.0.1`
+Latest compatible firmware: `18.1.0`
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
