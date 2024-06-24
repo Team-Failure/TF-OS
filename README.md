@@ -86,6 +86,7 @@ This is the list of homebrews on our cfw:
 4- (if you are on RCM mode) Start your computer, download and launch `"TegraRCMgui"` go to `tegrarcmgui settings` and `install drivers`, connect your switch at your pc with a cable `can transfer data`, and,if the program show your console is in RCM mode, select the Payload `"hekate..." or "TF PrismaLoader..."` is in the archive with the folder icon and select "inject payload" 
 
 5- Create an emuNAND
+
 Go on hekate and:
 Select `"emuMMC"`, `"create emuMMC"`, `"Sd file"` and wait (can be take over 10min)
 
