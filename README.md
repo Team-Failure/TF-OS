@@ -103,4 +103,4 @@ Note: You must launch Homebrews menu with a game and "R" button pressed to use "
 Open console settings and connect to internet, go to homebrews menu and launch "90dns setter", when it is finish, launch "90dns tester" and test the 90dns. 
 
 # WARNING 
-- IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATR AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE ! 
+***IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATE AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE !***
