@@ -10,7 +10,7 @@ Our CFW (Pack) is verry complete with some of homebrews.
 # Homebrews
 This is the list of homebrews on our CFW:
 
-* Installer:
+#### Installer:
 
 - appstore
 
@@ -22,7 +22,7 @@ This is the list of homebrews on our CFW:
 
 - Gamecard installer 
 
-* Dumping tools:
+#### Dumping tools:
 
 - NX Dump tool 
 
@@ -34,25 +34,25 @@ This is the list of homebrews on our CFW:
 
 - sys clk editor
 
-* File manager:
+#### File manager:
 
 - NX Shell 
 
-* Mods: 
+#### Mods: 
 
 - SimpleModManager 
 
-* Save editors:
+#### Save editors:
 
 - Checkpoint 
 
-* Firmware updater:
+#### Firmware updater:
 
 - Daybreak 
 
 - AIO Switch Updater
 
-* Other: 
+#### Other: 
 
 - Browser (Switch browser) 
 
