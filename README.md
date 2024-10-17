@@ -1,80 +1,80 @@
 # TF-OS
 A new CFW (Pack) for Nintendo Switch. 
 
-Latest compatible firmware: `18.1.0`
+Latest compatible firmware: `19.0.0`
 
 Our CFW (Pack) is verry complete with some of homebrews. 
 
 ➡ In no event shall we be held responsible for any issues or bricking occurring with your console. We strongly recommend following the provided instructions. 
 
 # Homebrews
-This is the list of homebrews on our cfw:
+This is the list of homebrews on our CFW:
 
 * Installer:
 
--appstore
+- appstore
 
--Goldleaf 
+- Goldleaf 
 
--Awoo installer
+- Awoo installer
 
--Dbi
+- Dbi
 
--Gamecard installer 
+- Gamecard installer 
 
 * Dumping tools:
 
--NX Dump tool 
+- NX Dump tool 
 
--Firmware dumper
+- Firmware dumper
 
 * Overclocking:
 
--sys clk manager 
+- sys clk manager 
 
--sys clk editor
+- sys clk editor
 
 * File manager:
 
--NX Shell 
+- NX Shell 
 
 * Mods: 
 
--SimpleModManager 
+- SimpleModManager 
 
 * Save editors:
 
--Checkpoint 
+- Checkpoint 
 
 * Firmware updater:
 
--Daybreak 
+- Daybreak 
 
--AIO Switch Updater
+- AIO Switch Updater
 
 * Other: 
 
--Browser (Switch browser) 
+- Browser (Switch browser) 
 
--Haze (Pc to sd card file transferer) 
+- Haze (Pc to sd card file transferer) 
 
--EdiZon (Cheat Manager)
+- EdiZon (Cheat Manager)
 
--NX theme installer 
+- NX theme installer 
 
--sys dvr (Switch game to pc for steaming with obs or other)
+- sys dvr (Switch game to pc for steaming with obs or other)
 
--90DNS setter
+- 90DNS setter
 
--90DNS tester
+- 90DNS tester
 
--reboot_to_rcm 
+- reboot_to_rcm 
 
--reboot Payload 
+- reboot Payload 
 
--Reset parental control
+- Reset parental control
 
--Payload Launcher
+- Payload Launcher
 
 # Setup
 1- Download the last release or Pre release 
@@ -98,9 +98,16 @@ Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),acti
 
 Note: You must launch Homebrews menu with a game and "R" button pressed to use "Checkpoint" 
 
-7- Activate 90DNS `(Optional and at your own riks)` 
+# Activate 90DNS `(Optional and at your own riks)` 
 
 Open console settings and connect to internet, go to homebrews menu and launch "90dns setter", when it is finish, launch "90dns tester" and test the 90dns. 
 
 # WARNING 
-***IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATE AUTO RCM ! THIS CAN AUTOMATICLY BRICK YOUR DEVICE !***
+***IF YOUR SWITCH HAVE A MOD CHIP, PLEASE, NEVER ACTIVATE AUTO RCM ! THIS AUTOMATICLY BRICK YOUR DEVICE !***
+
+# Troubleshooting
+- Unable to use `sys-clk manager`:
+1. Open hbmenu from album applet or game with "R" hold
+2. Open "sys-clk editor" and activate sys-clk
+3. Re-try to open sys-clk manager
+4. If you're not able to open it, please open an issue
