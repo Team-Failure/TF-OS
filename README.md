@@ -3,7 +3,9 @@ A CFW (Pack) for Nintendo Switch.
 
 Latest compatible firmware: `19.0.0`
 
-Our CFW (Pack) is verry complete with some of homebrews. 
+Our CFW (Pack) is verry complete with some of homebrews.
+
+# Disclaimer
 
 ➡ In no event shall we be held responsible for any issues or bricking occurring with your console. We strongly recommend following the provided instructions. 
 
