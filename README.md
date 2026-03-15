@@ -3,7 +3,7 @@ A CFW (Pack) for Nintendo Switch.
 
 Latest compatible firmware: `21.2.0`
 
-Our CFW (Pack) is verry complete with some of homebrews.
+Our CFW (Pack) is very complete with some of homebrews.
 
 # Disclaimer
 
@@ -44,7 +44,7 @@ This is the list of homebrews on our CFW:
 
 - SimpleModManager 
 
-#### Save editors:
+#### Save backups:
 
 - Checkpoint 
 
@@ -81,7 +81,7 @@ This is the list of homebrews on our CFW:
 # Setup
 1- Download the latest release or Pre release 
 
-2- Format your sd card on `fat32` and extract contenent of `"sd"` folder on your sd card. Or just drop files in the sd card if you dont want to format it
+2- Format your sd card on `fat32` and extract contenent of `"sd"` folder on your sd card. Or just drop files in the sd card if you dont want to format it. (you can also format the sd card to exFAT but it's realy not recommanded since switch exFAT driver is absolute trash and corrupt everything for no resons!)
 
 3- Put your console into RCM mode or `just power on it if your console have a mod chip`
 
@@ -96,7 +96,7 @@ Select `"emuMMC"`, `"create emuMMC"`, `"Sd file"` and wait (can take over 10min)
 
 6- Launch: 
 
-Return at Hekate menu and select "Launch" and select the emuNAND ("emuMMC"),activate airplaine mode immediatly and open the album or launch game with "R" button pressed to launch the homebrew menu. (The album launch the hbmenu in appelt mode and a game with "R" button pressed launch hbmenu in normal mode) 
+Return on Hekate menu and select "Launch" and select the emuNAND ("emuMMC"), unable airplaine mode immediatly and open the album or launch game with "R" button pressed to launch the homebrew menu. (The album launch the hbmenu in "appelt mode" and a game with "R" button pressed launch hbmenu in normal mode) 
 
 Note: You must launch Homebrews menu with a game and "R" button pressed to use certains homebrews like Checkpoint
 
